@@ -4,8 +4,8 @@
 
 <div>
 <div style="display: inline_block"><br>
-<img align="center" alt="-Js" height="240" width="260" src="https://media.discordapp.net/attachments/1010233095414349846/1012543072875315270/Screenshot_874.png">
-<img align="center" alt="-HTML" height="240" width="240" src="https://media.discordapp.net/attachments/1010233095414349846/1012543073194090516/Screenshot_875.png">
+<img align="center" alt="-Js" height="280" width="300" src="https://media.discordapp.net/attachments/1010233095414349846/1012543072875315270/Screenshot_874.png">
+<img align="center" alt="-HTML" height="280" width="280" src="https://media.discordapp.net/attachments/1010233095414349846/1012543073194090516/Screenshot_875.png">
 </div>
 
 
